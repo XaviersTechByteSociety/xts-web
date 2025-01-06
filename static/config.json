@@ -39,8 +39,8 @@
     },
     "team-members" : {
         "tech" : ["Sweta Mehta", "Aayush Carol Baxla"],
-        "pr": ["Aanchal Kumari", "Ritika Prakash", "Shruti Shukla", "Bobby Pal", "Rohit Kr. Das", "Harsh Kumar", "Shantosh Kumar", "Rajveer Pathak"],
-        "exec": ["Prashank Kumar Gupta", "Ronit Sam Horo", "Yash Pandey"]
+        "pr": ["Aanchal Kumari", "Ritika Prakash", "Riddhi Vishwakarma", "Shruti Shukla", "Bobby Pal", "Rohit Kr. Das", "Shantosh Kumar", "Rajveer Pathak"],
+        "exec": ["Prashank Kumar Gupta", "Ronit Sam Horo"]
     },
     "patrons": {
         "hod": {

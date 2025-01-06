@@ -34,6 +34,7 @@ def home():
 
 @app.route("/register")
 def registration():
+    return redirect(url_for('home'))
     try:
         supabase.ping()
         logging.info("Supabase connection active.")
